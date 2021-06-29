@@ -5,14 +5,13 @@
     <link>https://abcnull.github.io/tags/%E6%96%87%E7%AB%A0%E6%A0%87%E7%AD%BE2/</link>
     <description>Recent content in 文章标签2 on Abcnull 博客</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>zh_cn</language>
-    <lastBuildDate>Mon, 28 Sep 2015 00:00:00 +0000</lastBuildDate><atom:link href="https://abcnull.github.io/tags/%E6%96%87%E7%AB%A0%E6%A0%87%E7%AD%BE2/index.xml" rel="self" type="application/rss+xml" />
+    <language>zh_cn</language><atom:link href="https://abcnull.github.io/tags/%E6%96%87%E7%AB%A0%E6%A0%87%E7%AD%BE2/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>文章标题</title>
-      <link>https://abcnull.github.io/code/test/</link>
-      <pubDate>Mon, 28 Sep 2015 00:00:00 +0000</pubDate>
+      <title>胖珍和胖磊</title>
+      <link>https://abcnull.github.io/content_code/test/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://abcnull.github.io/code/test/</guid>
+      <guid>https://abcnull.github.io/content_code/test/</guid>
       <description>ddd dfddf
 func main() { } </description>
     </item>

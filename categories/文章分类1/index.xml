@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>文章分类1 on Abcnull 博客</title>
+    <link>https://abcnull.github.io/categories/%E6%96%87%E7%AB%A0%E5%88%86%E7%B1%BB1/</link>
+    <description>Recent content in 文章分类1 on Abcnull 博客</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh_cn</language>
+    <lastBuildDate>Mon, 28 Sep 2015 00:00:00 +0000</lastBuildDate><atom:link href="https://abcnull.github.io/categories/%E6%96%87%E7%AB%A0%E5%88%86%E7%B1%BB1/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>文章标题</title>
+      <link>https://abcnull.github.io/code/test/</link>
+      <pubDate>Mon, 28 Sep 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://abcnull.github.io/code/test/</guid>
+      <description>ddd dfddf
+func main() { } </description>
+    </item>
+    
+  </channel>
+</rss>
